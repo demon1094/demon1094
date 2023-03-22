@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS**
 
-- 💬 Ask me about **LUA, Javascript**
+- 💬 Ask me about **LUA, JavaScript**
 
 - 📫 How to reach me **diegoagar345@gmail.com**
 
