@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demon1094&label=Profile%20views&color=0e75b6&style=flat" alt="demon1094" /> </p>
 
-- 🌱 I’m currently learning **Styled Components, React Hooks**
+- 🌱 I’m currently learning **React Hooks, API Restful**
 
 - 💬 Ask me about **ReactJS, NodeJS, JavaScript, LUA**
 
