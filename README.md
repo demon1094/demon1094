@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Hooks, API Restful**
 
-- 💬 Ask me about **ReactJS, NodeJS, JavaScript, LUA**
+- 💬 Tecs: **ReactJS, Styled Components, NodeJS, Knex, Express, JavaScript, LUA**
 
 - 📫 How to reach me **diegoagar345@gmail.com**
 
