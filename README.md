@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Skills: **ReactJS, Styled Components, NodeJS, Knex, Express, JavaScript, LUA, API's RESTful,SQLite, MariaDB**
+- 💬 Skills: **ReactJS, Styled Components, NodeJS, Knex, Express, JavaScript, LUA, API's RESTful, SQLite, MariaDB**
 
 - 📫 How to reach me **diegoagar345@gmail.com**
 
