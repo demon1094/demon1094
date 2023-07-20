@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demon1094&label=Profile%20views&color=0e75b6&style=flat" alt="demon1094" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TailwindCSS**
 
-- 💬 Skills: **ReactJS, Styled Components, NodeJS, Knex, Express, JavaScript, LUA, API's RESTful, SQLite, MariaDB**
+- 💬 Skills: **TypeScript, ReactJS, Redux, Styled Components, NodeJS, Knex, Express, LUA, API's RESTful, SQLite, MariaDB**
 
 - 📫 How to reach me **diegoagar345@gmail.com**
 
